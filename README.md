@@ -36,6 +36,7 @@ Enjoy high-quality video content with seamless streaming. Learning through video
 
 This project is actively developed and maintained by:
 
+- **Harsahib Singh Sandhu** 
 - **Deepak Kumar** 
 - **Gautam Sodhi**
 
